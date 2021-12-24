@@ -7,6 +7,7 @@ namespace Test_Telegram_BOT
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			Console.WriteLine("Second output line!");
 		}
 	}
 }
